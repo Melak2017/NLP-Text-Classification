@@ -37,10 +37,10 @@ pip install -r requirements.txt
         ├── labeled.csv             # labeld medical/non-medical data           
         ├── topic.json              # dictionary for clasifiying topic texts                   
     ├── logs                           # log files
-    ├── model                         # dumped model                        
-│   │   ├── text_classifier_model.py     
+    ├── model                 # dumped model                         
+    │   ├── text_classifier_model.py                
     │
-    ├── notebooks                      # Jupyter notebooks for exploration and experimentation 
+    ├── notebooks                        # Jupyter notebooks for exploration and experimentation         
     │   ├── pre_processing.ipynb      # notebook containing processing and modeling
     │
     ├── src                        # # Scripts modules for data pre-processing 
