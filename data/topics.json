@@ -1,0 +1,21 @@
+{
+    "medical_topics": [
+        "Cardiology", "Neurology", "Oncology", "Pediatrics", "Dermatology",
+        "Endocrinology", "Gastroenterology", "Hematology", "Nephrology",
+        "Ophthalmology", "Otolaryngology", "Pulmonology", "Rheumatology",
+        "Urology", "Psychiatry", "Immunology", "Anesthesiology", "Radiology",
+        "Pathology", "Infectious Disease", "Obstetrics", "Gynecology",
+        "Geriatrics", "Orthopedics", "Surgery", "Virology", "Cardiothoracic Surgery",
+        "Neonatology", "Pharmacology", "Nuclear Medicine", "Emergency Medicine",
+        "Dental Surgery", "Podiatry", "Occupational Therapy", "Physical Therapy"
+    ],
+    "non_medical_topics": [
+        "History", "Geography", "Technology", "Art", "Literature", "Economics",
+        "Physics", "Chemistry", "Biology", "Mathematics", "Environmental Science",
+        "Political Science", "Philosophy", "Music", "Astronomy", "Linguistics",
+        "Sociology", "Archaeology", "Anthropology", "Psychology", "Computer Science",
+        "Engineering", "Education", "Media Studies", "Culinary Arts", "Architecture",
+        "Cinema", "Fashion Design", "Graphic Design", "Urban Planning", "Photography",
+        "Theater", "Dance", "Folklore", "Library Science", "Journalism"
+    ]
+}
